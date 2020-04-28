@@ -1,0 +1,41 @@
+body
+{
+  font-family: Montserrat;
+background-color: #393E46;
+color: #4ECCA3;
+}
+.container{
+  text-align: center;
+}
+.main-heading
+{
+  margin: 30px;
+    font-size: 10rem;
+    font-style: oblique;
+
+}
+.players
+{
+  font-size: 2rem;
+  margin: 30px auto;
+}
+/* dices */
+.dices
+{
+  width:150px;
+}
+footer
+{
+  margin: 100px auto;
+}
+.result
+{
+  margin:30px;
+}
+@media (max-width:768px)
+{
+  .main-heading
+  {
+    font-size: 6rem;
+  }
+}
